@@ -1,0 +1,28 @@
+
+.inputTarea{
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 1px 4px 10px 0 rgba(158, 155, 160, 0.551);
+}
+main {
+    background-color: rgb(255, 240, 243);
+    border-radius: 28px;
+}
+.container{
+    margin-top: 50px;
+    max-width: 768px;
+}
+
+.spanTarea{
+    margin-left: 170px;
+    display: flex;
+    max-width: 400px;
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 1px 4px 10px 0 rgba(158, 155, 160, 0.551);
+}
+
+body {
+    color: rgb(92, 64, 70);
+    background-color: rgba(101, 55, 64, 0.742);
+}
